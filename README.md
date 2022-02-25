@@ -1,2 +1,4 @@
 # evencflags
-common event encryption flags definitions
+
+Common event encryption flags definitions, used by sipcmbeat and other
+modules to record what event fields where encrypted.

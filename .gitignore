@@ -1,3 +1,18 @@
+# vi swaps
+.*.swp
+# Emacs backup files
+*~
+# Emacs file loc
+.#*
+# tags
+tags
+TAGS
+# archives
+*.tar.gz
+*.deb
+*.rpm
+
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
